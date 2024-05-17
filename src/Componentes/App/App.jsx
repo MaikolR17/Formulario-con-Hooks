@@ -9,7 +9,7 @@ const App = () => {
       lastName: "",
       email: "",
       password: "",
-      confirmpassword: "",
+      confirmPassword: "",
   })
   return (
     <div className='App'>

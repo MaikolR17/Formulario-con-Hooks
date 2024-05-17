@@ -3,3 +3,8 @@ input {
     border-radius: 3px;
     margin: 5px;
 }
+
+.error{
+    color: red;
+    font-size: 13px;
+}
